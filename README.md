@@ -11,8 +11,8 @@ We just started out yet.
   
 - robot.ino:
   Serve a comandare il robot, comunica con i pin della scheda
+
 - robocupArduino.ino: 
-  
   Serve a fungere come file main
   
   ## Hardware
