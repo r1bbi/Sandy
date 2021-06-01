@@ -3,8 +3,8 @@
 ## Comparto potenza:
 - ruote meccanum [Ø 80mm]
 - ovonic air [2200 mAh, 11,1 V]
-- ponte h []
-- motori[]
+- ponte h [da capire]
+- motori[da capire]
 ## Comparto di calcolo:	
 - scheda [Arduino due]
 - sensori ultrasuoni [HCSR04]
